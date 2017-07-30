@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+__vm/Upload.vmps.xml
+__vm/Configuration.Debug.vmps.xml
+*.xml
+*.suo
+Debug/board.buildinfo
+*.a
+Debug/microwaveTester.cpp.d
+*.o
+Debug/microwaveTester.elf
+*.hex
+Debug/microwaveTester.ino.elf
+*.vcxproj
+microwaveTester.vcxproj.filters
+__vm/.microwaveTester.vsarduino.h
